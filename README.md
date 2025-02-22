@@ -75,6 +75,7 @@ Head over to the `_posts` directory to view all the posts that are currently on 
 ### Local Installation
 
 For a full local installation of Lagrange, [download your own copy of Lagrange](https://github.com/LeNPaul/Lagrange/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, enter `bundle install`, and then enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
+# Triggering a new deployment
 
 ### Directory Structure
 
